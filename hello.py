@@ -1,3 +1,5 @@
 y=int(input())
-for i in range(1,y+1)
-print(Hello)
+i=0
+while (i<y):
+    print("Hello")
+    i=i+1
