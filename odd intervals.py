@@ -1,4 +1,4 @@
-c,d=input().split()
-for i in range (int(c)+1,int(d)):
+a,b=input().split()
+for i in range (int(a)+1,int(b)):
 	if i%2!=0:
 	print(i, end=" ")
